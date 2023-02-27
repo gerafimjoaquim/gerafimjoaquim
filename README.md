@@ -1,14 +1,11 @@
 <h1 align="left">Hi, I'm Gerafim Joaquim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerafimjoaquim&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 I study programming on my own since 2015.
+- 🔥 Ask me about **JavaScript, HTML, CSS, JavaScript**
 - 👷‍♂️ Graduated in Electricity and Statistics
-- 💬 Ask me about **JavaScript, HTML, CSS, JavaScript**
-- 😄 Pronouns: he/him/his
-- From Mozambique / Africa
 - 📱 Whatsapp: +258840101001
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
