@@ -1,4 +1,9 @@
-### Hi there 👋
+### Saudações, eu sou Gerafim Joaquim 👋
+
+- ⚡ Estudando JS
+- 😄 Pronomes: he/him/his
+- 👷‍♂️ Profissões: Electricidade Geral; Estatística Sanitária
+- 📱 Whatsapp: +258840101001
 
 <!--
 **gerafimjoaquim/gerafimjoaquim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
