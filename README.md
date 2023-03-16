@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Gerafim Joaquim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerafimjoaquim&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Ask me about **JavaScript, HTML, CSS, JavaScript**
+- 🔥 Ask me about **JavaScript, HTML, CSS**
 - 👷‍♂️ Graduated in Electricity and Statistics
 - 📱 Whatsapp: +258840101001
 
